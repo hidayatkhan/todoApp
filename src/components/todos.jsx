@@ -22,7 +22,7 @@ class Todos extends Component {
             {
                 id: 3,
                 value: "todo 3",
-                isDone: false
+                isDone: true
             }
         ]
     }
